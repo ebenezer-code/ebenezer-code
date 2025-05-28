@@ -1,6 +1,7 @@
 ### 👋 Hiii, I'm Ebenezer Noble🤝
-### I'm a Frontend Engineer 🧑🏿💻 and future CEO 🚀
-![ChatGPT Image May 27, 2025, 01_29_43 PM](https://github.com/user-attachments/assets/831dc036-0ca1-4f75-8650-eb42343a40ff)
+### I'm a Frontend Engineer
+![WhatsApp Image 2025-05-27 at 16 41 59_52045d14](https://github.com/user-attachments/assets/e105d78f-5d64-4b5e-964b-3ad3d36106b3)
+
 
 I'm passionate about crafting beautiful, accessible, and responsive web experiences, and also building my own company. I specialize in frontend development using JavaScript, React, and modern tools that bring ideas to life on the web.
 
@@ -10,10 +11,6 @@ I'm passionate about crafting beautiful, accessible, and responsive web experien
 - Frontend Engineering (JavaScript, React, Next.js)
 - UI/UX best practices
 - Creating content that simplifies tech concepts
-
-🏀⚽ Outside of tech, you’ll probably find me watching or playing basketball and football.
-
-🍳 I also enjoy cooking up tasty meals and traveling to experience new cultures and cuisines.
 
 📫 Reach me on [LinkedIn](www.linkedin.com/in/ebenezer-noble) — I’m always up for a chat!
 
